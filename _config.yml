@@ -44,12 +44,12 @@ features                                  :
 
   - title                                 : Cheapest nearby stations
     description                           : Find the cheapest fuel within your chosen search radius, with stations ranked by price and distance.
-    fontawesome_icon_name                 : sterling-sign
+    fontawesome_icon_name                 : gbp
 
   - title                                 : Closest station search
     description                           : Switch from cheapest-first to nearest-first when you need the closest available fuel stop.
-    fontawesome_icon_name                 : location-dot
-
+    fontawesome_icon_name                 : compass
+    
   - title                                 : Favourite stations
     description                           : Save regular stations, reorder them manually and track the ones that matter most to you.
     fontawesome_icon_name                 : star
@@ -64,19 +64,19 @@ features                                  :
 
   - title                                 : Home screen widgets
     description                           : Add small or medium widgets to see current nearby fuel prices without opening the app.
-    fontawesome_icon_name                 : table-cells-large
+    fontawesome_icon_name                 : th-large
 
   - title                                 : Live Activity
     description                           : Keep the best nearby fuel price visible on the Lock Screen and Dynamic Island while travelling.
-    fontawesome_icon_name                 : mobile-screen-button
-
+    fontawesome_icon_name                 : square-o
+    
   - title                                 : Apple Maps directions
     description                           : Tap a station to open directions in Apple Maps or view more station details inside FuelBoard.
     fontawesome_icon_name                 : route
 
   - title                                 : Siri shortcuts
     description                           : Ask Siri for the cheapest fuel near you or get directions to the cheapest unleaded, premium or diesel station.
-    fontawesome_icon_name                 : microphone-lines
+    fontawesome_icon_name                 : microphone
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
