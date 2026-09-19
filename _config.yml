@@ -38,32 +38,32 @@ mastodon_link                             : https://mastodon.social/@apt
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : UK-wide fuel prices
-    description                           : Browse petrol, premium and diesel prices from the UK Fuel Finder dataset, covering stations across England, Scotland, Wales and Northern Ireland.
+  - title                                 : Find cheaper fuel nearby
+    description                           : Compare nearby unleaded, premium unleaded and diesel prices, sorted by price and distance.
     fontawesome_icon_name                 : gas-pump
 
-  - title                                 : Cheapest nearby stations
-    description                           : Find the cheapest fuel within your chosen search radius, with stations ranked by price and distance.
-    fontawesome_icon_name                 : pound-sign
+  - title                                 : UK-wide Fuel Finder data
+    description                           : Uses the UK Fuel Finder dataset under the Open Government Licence, covering stations across England, Scotland, Wales and Northern Ireland.
+    fontawesome_icon_name                 : map-location-dot
 
-  - title                                 : Closest station search
-    description                           : Switch from cheapest-first to nearest-first when you need the closest available fuel stop.
-    fontawesome_icon_name                 : compass
-    
-  - title                                 : Favourite stations
-    description                           : Save regular stations, reorder them manually and track the ones that matter most to you.
+  - title                                 : Save your regular stations
+    description                           : Favourite the stations you use most, keep them in your own order and check them quickly.
     fontawesome_icon_name                 : star
-
-  - title                                 : Price history trends
-    description                           : View recent price changes for your favourite stations and compare them against your cheapest favourite.
+    
+  - title                                 : Price trends for favourites
+    description                           : See how your favourite stations move over time, so you know whether today’s price is actually good.
     fontawesome_icon_name                 : chart-line
 
-  - title                                 : Fuel price alerts
-    description                           : Enable optional location-based alerts when you approach the cheapest station in your selected radius.
+  - title                                 : Optional price alerts
+    description                           : Get an alert when you’re approaching the cheapest station in your chosen radius.
     fontawesome_icon_name                 : bell
 
-  - title                                 : Home screen widgets
-    description                           : Add small or medium widgets to see current nearby fuel prices without opening the app.
+  - title                                 : Widgets and Live Activities
+    description                           : Keep nearby fuel prices visible on your Home Screen, Lock Screen and Dynamic Island.
+    fontawesome_icon_name                 : th-large
+
+  - title                                 : Apple Maps directions
+    description                           : Open turn-by-turn directions to any station, or view more station details inside FuelBoard.
     fontawesome_icon_name                 : th-large
 
   - title                                 : Live Activity
