@@ -44,7 +44,7 @@ features                                  :
 
   - title                                 : Cheapest nearby stations
     description                           : Find the cheapest fuel within your chosen search radius, with stations ranked by price and distance.
-    fontawesome_icon_name                 : gbp
+    fontawesome_icon_name                 : pound-sign
 
   - title                                 : Closest station search
     description                           : Switch from cheapest-first to nearest-first when you need the closest available fuel stop.
