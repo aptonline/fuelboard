@@ -5,8 +5,7 @@ include_in_header: falseess
 ---
 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
-
+Follow Fuelboard’s progress with the latest improvements, new features, and fixes. We’re continually refining the experience to make Fuelboard faster, easier to use, and more reliable.
 <br>
 
 ### `Latest`
@@ -16,5 +15,7 @@ ________
 
 ### `Initial Release`
 # **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+Welcome to the first release of FuelBoard! Version 1.0 introduces the core FuelBoard experience, giving you a simple and convenient way to stay organised and keep the information that matters within easy reach.
+
+This is just the beginning. Future releases will bring further improvements, refinements, and new features based on your feedback.
 <br>
