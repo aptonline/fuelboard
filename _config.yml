@@ -44,7 +44,7 @@ features                                  :
 
   - title                                 : UK-wide Fuel Finder data
     description                           : Uses the UK Fuel Finder dataset under the Open Government Licence, covering stations across England, Scotland, Wales and Northern Ireland.
-    fontawesome_icon_name                 : map-location-dot
+    fontawesome_icon_name                 : map
 
   - title                                 : Save your regular stations
     description                           : Favourite the stations you use most, keep them in your own order and check them quickly.
