@@ -68,7 +68,7 @@ features                                  :
 
   - title                                 : Live Activity
     description                           : Keep the best nearby fuel price visible on the Lock Screen and Dynamic Island while travelling.
-    fontawesome_icon_name                 : square-o
+    fontawesome_icon_name                 : square
     
   - title                                 : Apple Maps directions
     description                           : Tap a station to open directions in Apple Maps or view more station details inside FuelBoard.
