@@ -63,15 +63,7 @@ features                                  :
     fontawesome_icon_name                 : th-large
 
   - title                                 : Apple Maps directions
-    description                           : Open turn-by-turn directions to any station, or view more station details inside FuelBoard.
-    fontawesome_icon_name                 : th-large
-
-  - title                                 : Live Activity
-    description                           : Keep the best nearby fuel price visible on the Lock Screen and Dynamic Island while travelling.
-    fontawesome_icon_name                 : square
-    
-  - title                                 : Apple Maps directions
-    description                           : Tap a station to open directions in Apple Maps or view more station details inside FuelBoard.
+    description                           : TOpen turn-by-turn directions to any station, or view more station details inside FuelBoard.
     fontawesome_icon_name                 : route
 
   - title                                 : Siri shortcuts
