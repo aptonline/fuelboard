@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 :   Ade Thompson                              
-your_link                                 :   https://mastodon.social/@apt                   
+your_link                                 :   https://mas.to/@apt                   
 your_city                                 :                                 
 email_address                             : 
 linkedin_username                         :                                           
@@ -31,7 +31,7 @@ instagram_username                        :
 twitter_username                          : 
 github_username                           : aptonline
 youtube_username                          :
-mastodon_link                             : https://mastodon.social/@apt
+mastodon_link                             : https://mas.to/@apt
 
 
 
@@ -63,7 +63,7 @@ features                                  :
     fontawesome_icon_name                 : th-large
 
   - title                                 : Apple Maps directions
-    description                           : TOpen turn-by-turn directions to any station, or view more station details inside FuelBoard.
+    description                           : Open turn-by-turn directions to any station, or view more station details inside FuelBoard.
     fontawesome_icon_name                 : route
 
   - title                                 : Siri shortcuts
