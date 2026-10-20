@@ -14,7 +14,7 @@ Follow Fuelboard’s progress with the latest improvements, new features, and fi
 
 **Smarter savings. Clearer comparisons. Better FuelBoard.**
 
-- **Improved Best Value calculations** – Find stations offering genuine savings after factoring in fuel prices and travel costs.
+- **Best Value calculations** – Find stations offering genuine savings after factoring in fuel prices and travel costs.
 - **Clearer savings information** – See at a glance whether a station saves you money, costs more or breaks even.
 - **Refreshed station listings** – Cleaner layouts, improved price ratings and easy-to-read labels.
 - **Better controls** – Improved settings, filters and fill-up options.
