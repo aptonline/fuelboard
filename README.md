@@ -1,6 +1,6 @@
 
 
-<img title="" src="/Users/apt/Developer/Github/fuelboard/assets/appicon.png" alt="appicon.png" width="134" data-align="inline" />
+<img title="" src="./assets/appicon.png" alt="appicon.png" width="134" data-align="inline" />
 
 # FuelBoard Landing Page
 
