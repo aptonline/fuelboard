@@ -76,6 +76,27 @@
 			</a>
 		{% endif %}
 
+		{% if site.reddit_link %}
+		    <a href="{{ site.reddit_link }}"
+		       aria-label="Reddit">
+		        <span class="fa-stack fa-1x">
+		            <i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+		            <i class="socialIconTop fab fa-reddit-alien fa-stack-1x"></i>
+		        </span>
+		    </a>
+		{% endif %}
+		
+		{% if site.tiktok_link %}
+		    <a href="{{ site.tiktok_link }}"
+		       aria-label="TikTok">
+		        <span class="fa-stack fa-1x">
+		            <i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+		            <i class="socialIconTop fab fa-tiktok fa-stack-1x"></i>
+		        </span>
+		    </a>
+		{% endif %}
+
+
 	</div>
 	<div class="footerLinks">
 		{% for page in site.pages %}
